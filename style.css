@@ -1,6 +1,7 @@
 .head2 {
   color: blue;
   justify-content: center;
+  text-align: center;
 }
 .head3 {
   color: blueviolet;
@@ -8,10 +9,12 @@
 }
 .my-list-element {
   font-weight: bold;
+  justify-content: center;
 }
 #special-heading {
   font-size: 40px;
   color: red;
+  text-align: justify;
 }
 h2 {
   border-style: dotted;
@@ -25,7 +28,11 @@ h2 {
 }
 #div2 {
   background-color: rgb(84, 199, 199);
+  padding: 15px;
+  margin: 15px;
 }
 #section {
   background-color: rgb(175, 245, 245);
+  padding: 15px;
+  margin: 15px;
 }
