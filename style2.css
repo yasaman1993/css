@@ -1,0 +1,12 @@
+.main-text {
+  color: blue;
+  background-color: aquamarine;
+  justify-content: center;
+}
+#title {
+  color: blue;
+  background-color: bisque;
+  font-size: 100%;
+  text-align: center;
+  justify-content: center;
+}
