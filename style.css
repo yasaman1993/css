@@ -1,0 +1,31 @@
+.head2 {
+  color: blue;
+  justify-content: center;
+}
+.head3 {
+  color: blueviolet;
+  justify-content: center;
+}
+.my-list-element {
+  font-weight: bold;
+}
+#special-heading {
+  font-size: 40px;
+  color: red;
+}
+h2 {
+  border-style: dotted;
+  border-color: rgba(33, 33, 175, 0.61);
+}
+
+#div1 {
+  background-color: aqua;
+  padding: 15px;
+  margin: 15px;
+}
+#div2 {
+  background-color: rgb(84, 199, 199);
+}
+#section {
+  background-color: rgb(175, 245, 245);
+}
