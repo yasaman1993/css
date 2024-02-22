@@ -1,0 +1,32 @@
+.first-class .first-div {
+  color: blue;
+} /*farbe geändert*/
+main div {
+  color: rgba(233, 122, 215, 0.822);
+}
+div h3 {
+  color: green;
+}
+main section div {
+  color: blueviolet;
+} /*nesting farbe geändert*/
+
+div a:hover {
+  color: rgba(201, 163, 91, 0.903);
+}
+div a:visited {
+  font-weight: bold;
+}
+
+div section a:active {
+  color: brown;
+}
+p {
+  background-color: rgba(184, 148, 100, 0.767);
+  opacity: 0, 5;
+  height: 50px;
+  text-align: center;
+  padding: 20px;
+  margin: 50px;
+  width: 70%;
+}
